@@ -1,0 +1,13 @@
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\bin\Debug\BurgerApp Capítulo 2.exe.config
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\bin\Debug\BurgerApp Capítulo 2.exe
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\bin\Debug\BurgerApp Capítulo 2.pdb
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp Capítulo 2.csproj.AssemblyReference.cache
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp Capítulo 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp_Capítulo_2.Properties.Resources.resources
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp Capítulo 2.csproj.GenerateResource.cache
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp Capítulo 2.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp Capítulo 2.exe
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp Capítulo 2.pdb
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp_Capítulo_2.FrmStart.resources
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp_Capítulo_2.BurgerApp.resources
+C:\Users\renat\source\repos\BurgerApp Capítulo 2\BurgerApp Capítulo 2\obj\Debug\BurgerApp_Capítulo_2.FrmRebaixado.resources
